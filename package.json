@@ -23,7 +23,7 @@
     "@clayui/css": "^3.139.1",
     "@clayui/form": "^3.139.0",
     "@clayui/icon": "^3.128.0",
-    "@clayui/label": "^3.128.0",
+    "@clayui/label": "^3.144.1",
     "@clayui/table": "^3.111.0",
     "@types/better-sqlite3": "^7.6.13",
     "better-sqlite3": "^11.10.0",
