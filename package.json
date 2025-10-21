@@ -35,7 +35,7 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.51.1",
+    "@playwright/test": "^1.56.1",
     "@tsconfig/node22": "^22.0.1",
     "@types/body-parser": "^1.19.5",
     "@types/cors": "^2.8.17",
